@@ -43,10 +43,6 @@
 ---
 ### 关于作者
 - [作者简历](https://jums.club/about)   
-- 微信公众号   
-![](https://cdn.jsdelivr.net/gh/crazyjums/crazyjums.github.io@master/images/wechataccount.jpg)
-- 微信打赏
-![](https://cdn.jsdelivr.net/gh/crazyjums/crazyjums.github.io@master/images/wechatpay.jpg)
-- 支付宝打赏
-![](https://cdn.jsdelivr.net/gh/crazyjums/crazyjums.github.io@master/images/alipay.jpg)
+- 微信公众号|微信打赏|支付宝打赏   
+<img src="https://cdn.jsdelivr.net/gh/crazyjums/crazyjums.github.io@master/images/wechataccount.jpg" width="200px" height="200px"/><img src="https://cdn.jsdelivr.net/gh/crazyjums/crazyjums.github.io@master/images/wechatpay.jpg" width="220px" height="220px"/><img src="https://cdn.jsdelivr.net/gh/crazyjums/crazyjums.github.io@master/images/alipay.jpg" width="200px" height="200px"/>
 
