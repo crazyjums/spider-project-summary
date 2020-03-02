@@ -1,4 +1,4 @@
-[Chinese Version](https://cdn.jsdelivr.net/gh/crazyjums/spider-project-summary@master/README.MD)   
+[Chinese Version](https://github.com/crazyjums/spider-project-summary/blob/master/REDEME.MD)   
 ## 1 For Primer
 |     Project Name          |             Project Profile                |
 | -------------------- | ----------------------------------- |
