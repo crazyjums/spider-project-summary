@@ -15,12 +15,12 @@
 ## 4 代理池
 >这里主要是一些HTTP Proxy代理项目，可以用于爬虫代理服务
 
-|     项目名称          |             项目介绍                |
-| -------------------- | ----------------------------------- |
-| [mitmproxy](https://github.com/crazyjums/mitmproxy)|  |
-| [haipproxy](https://github.com/crazyjums/haipproxy)     | |
-|[scylla](https://github.com/crazyjums/scylla) | |
-|[getproxy](https://github.com/crazyjums/getproxy)| |
+|     项目名称          | 
+| -------------------- | 
+| [mitmproxy](https://github.com/crazyjums/mitmproxy)|  
+| [haipproxy](https://github.com/crazyjums/haipproxy)     |
+|[scylla](https://github.com/crazyjums/scylla) | 
+|[getproxy](https://github.com/crazyjums/getproxy)| 
 
 
 
@@ -28,17 +28,17 @@
 |     项目名称          |             项目介绍                |
 | -------------------- | ----------------------------------- |
 | [awesome-spider](https://github.com/facert/awesome-spider)  | 这里介绍了很多的爬虫小项目，主要语言用的是`python` |
-| [Scrapy](https://github.com/scrapy/scrapy)     | 这是一个股票数据爬虫，可以通过`pip`进行安装使用 |
-| [ruia](https://github.com/crazyjums/ruia)     | 这是一个异步爬虫框架，可以实现高速爬取 |
-| [weixin_crawler](https://github.com/crazyjums/weixin_crawler)     | 这是一个微信公众号爬虫项目，可以爬取一些公众号的文章 |
-| [WechatSogou](https://github.com/crazyjums/WechatSogou)| 这是一个微信搜狗搜索的`API`接口 |
+| [Scrapy](https://github.com/scrapy/scrapy)     | 一个股票数据爬虫，可以通过`pip`进行安装使用 |
+| [ruia](https://github.com/crazyjums/ruia)     | 一个异步爬虫框架，可以实现高速爬取 |
+| [weixin_crawler](https://github.com/crazyjums/weixin_crawler)     | 一个微信公众号爬虫项目，可以爬取一些公众号的文章 |
+| [WechatSogou](https://github.com/crazyjums/WechatSogou)| 一个微信搜狗搜索的`API`接口 |
 
 
 ## 6 爬虫框架
 |     项目名称          |             项目介绍                |
 | -------------------- | ----------------------------------- |
-| [PSpider](https://github.com/xianhu/PSpider) |  |
-| [Scrapy](https://github.com/scrapy/scrapy)     | |
+| [PSpider](https://github.com/xianhu/PSpider) | 一个简单的web爬虫框架 |
+| [Scrapy](https://github.com/scrapy/scrapy)     |Scrapy 是用 Python 实现的一个为了爬取网站数据、提取结构性数据而编写的应用框架 |
 
 ## 7 python其他
 |     项目名称          |             项目介绍                |
