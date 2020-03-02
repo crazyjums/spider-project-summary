@@ -1,7 +1,7 @@
  <img src="https://cdn.jsdelivr.net/gh/crazyjums/
 spider-project-summary@master/10019068.jpg" />
 
-[Chinese Version](https://github.com/crazyjums/spider-project-summary/blob/master/REDEME.MD)   
+[中文版本](https://github.com/crazyjums/spider-project-summary/blob/master/REDEME.MD)   
 ## 1 For Primer
 |     Project Name          |             Project Profile                |
 | -------------------- | ----------------------------------- |
