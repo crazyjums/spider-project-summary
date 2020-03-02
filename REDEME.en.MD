@@ -1,5 +1,5 @@
 ![](https://cdn.jsdelivr.net/gh/crazyjums/MarkdownPic@master/spider-summary/10019068.jpg)   
-[中文版本](https://github.com/crazyjums/spider-project-summary/blob/master/REDEME.MD)   
+[中文版本](https://github.com/crazyjums/spider-project-summary)   
 ## 1 For Primer
 |     Project Name          |             Project Profile                |
 | -------------------- | ----------------------------------- |
