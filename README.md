@@ -1,5 +1,4 @@
- <img src="https://cdn.jsdelivr.net/gh/crazyjums/
-spider-project-summary@master/10019092.jpg" />
+ <img src="https://cdn.jsdelivr.net/gh/crazyjums/MarkdownPic@master/spider-summary/10019092.jpg" />
 
 [English Version](https://github.com/crazyjums/spider-project-summary/blob/master/REDEME.en.MD)   
 ## 1 爬虫入门
