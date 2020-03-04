@@ -46,6 +46,7 @@
 | ----------------- | ------------------------------- |
 | [wtfpython](https://github.com/crazyjums/wtfpython) | 这里主要介绍了一些比较不常见的python代码，可以帮助我们减少平时写代码的时候进行debug调试 |
 | [awesome-python-applications](https://github.com/crazyjums/awesome-python-applications)     | 这里介绍了很多的特别棒的用`python`语言写的一些项目代码          |
+|[awesome-python-cn](https://github.com/crazyjums/awesome-python-cn)|内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等|
 
 
 
