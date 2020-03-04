@@ -46,12 +46,13 @@
 | ----------------- | ------------------------------- |
 | [wtfpython](https://github.com/crazyjums/wtfpython) | There are lots of unusual pyhton codes, which can help you  to learn more about programming. |
 | [awesome-python-applications](https://github.com/crazyjums/awesome-python-applications)     | This project introduced many usefule and great applications programmed by `python`.           |
+|[awesome-python-cn](https://github.com/crazyjums/awesome-python-cn)|A big summary of python. You can get anything you want about the python.|
 
 
 
 
 ---
-### Abput Author
+### About Author
 - [Author's Resume](https://jums.club/about)   
 - Donate
 
